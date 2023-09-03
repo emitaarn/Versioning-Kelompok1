@@ -1,0 +1,6 @@
+Accountant
+Manager
+President
+Human Resource Representative
+Programmer
+Sales Manager
