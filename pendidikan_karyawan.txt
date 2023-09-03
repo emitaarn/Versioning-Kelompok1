@@ -1,0 +1,4 @@
+S1 Akuntansi
+S2 Manajemen
+S1/D4 Teknik Informatika
+S1 Ilmu Komunikasi
